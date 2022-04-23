@@ -1,0 +1,54 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.organize {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20%;
+}
+
+.big {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.grow {
+    width: 80%;
+}
+
+.white {
+    background-color: white;
+    color: black;
+}
+
+.blue {
+    background-color: rgb(0, 102, 255);
+    color: white;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.direction {
+    display: flex;
+    gap: 25px;
+    margin-top: 20px;
+}
+
+.colorBlue {
+    color: rgb(0, 140, 255);
+}
+
+.colorGreen {
+    color: rgb(0, 128, 43)
+}
+
+.colorRed {
+    color: rgb(255, 51, 0);
+}
